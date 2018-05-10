@@ -1,6 +1,7 @@
 # bt-mqtt-gateway
 
-A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers.
+A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers.  
+See [Wiki](https://github.com/zewelor/bt-mqtt-gateway/wiki) for more information.
 
 ## Features
 
